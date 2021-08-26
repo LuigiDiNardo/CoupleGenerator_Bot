@@ -17,7 +17,7 @@ public class CoupleGeneratorBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "1752119241:AAEz0W5ZKaOs2oAMg4-lRY_9Yvtthh886o0";
+        //hidden_token
     }
 
     @Override
